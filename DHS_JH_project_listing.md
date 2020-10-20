@@ -13,6 +13,7 @@ Instructions:
 ### (2) Add projects that would benefit our community!
 
 To list your project below, click on edit, make your change (follow the markdown format: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) then submit it as a pull request.
+ Post-exam bot | A good company for students who are bored after exams  | help  me add more trigger word suggestions so the bot gets smarter |https://github.com/dhscomputing/aaron_postexam_bot/tree/main | Mr Ho | 2D |
 
 
 Note: Only VALID and NEW entries will be accepted.
